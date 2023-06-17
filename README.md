@@ -1,5 +1,3 @@
-# GP1-Website
-
 # Abstract
 
 People's activity began to decline due to the presence of transportation, lack of movement, and
@@ -124,6 +122,6 @@ Here we chose another area of focus from the list and the page content will chan
 -[admin web demo link](https://drive.google.com/file/d/1pF6P3yFbpWl9sFAHwQvrpRA7tFdVjMM9/view?usp=sharing)
 ## Authors
 
-- [HalaAbduljalil@](https://www.github.com/HalaAbduljalil)
+- [@HalaAbduljalil](https://www.github.com/HalaAbduljalil)
 - [@saharSaleh22](https://www.github.com/saharSaleh22)
 
